@@ -15,7 +15,7 @@ An efficient technique that uses vertical data representation and TID-set inters
 Association Rule Extraction
 From the frequent itemsets, rules are derived using a confidence threshold to highlight strong associations between products.
 
-📊 Results & Insights
+📊 Results & Insights                                                                                                               
 🔹 Frequent Itemsets
    Milk & Butter are commonly purchased together.
    Bread & Butter show strong co-occurrence in transactions.
