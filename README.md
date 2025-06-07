@@ -18,7 +18,7 @@ From the frequent itemsets, rules are derived using a confidence threshold to hi
 📊 Results & Insights                                                                                                               
 🔹 Frequent Itemsets                                                                                                                             
    Milk & Butter are commonly purchased together.                                                                                                
-   Bread & Butter show strong co-occurrence in transactions.
+   Bread & Butter show strong co-occurrence in transactions.                                                                                     
 🔹 Discovered Association Rules                                                                                                                  
    Cookies → Milk                                                                                                                                
    Customers who buy cookies are highly likely to purchase milk as well.                                                                         
