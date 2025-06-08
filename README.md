@@ -1,4 +1,4 @@
-🛒 Association Rule Mining using Apriori and ECLAT Algorithms
+🛒 Association Rule Mining using Apriori and ECLAT Algorithms               
 🎯 Objective
 Discover meaningful patterns in customer purchase behavior using Association Rule Mining to help businesses improve product placement, bundling strategies, and recommendation systems.
 
